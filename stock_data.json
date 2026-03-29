@@ -1,0 +1,35 @@
+{
+  "10910201010": {
+    "nombre": "Monster Blanca",
+    "categoria": "Gaseosas y Bebidas",
+    "precio_costo": 2500.0,
+    "precio_venta": 3500.0,
+    "stock": 10,
+    "stock_minimo": 5,
+    "proveedor": "Coca- Cocla",
+    "notas": "----",
+    "ultima_actualizacion": "28/03/2026 13:00"
+  },
+  "1923812010101": {
+    "nombre": "OREO",
+    "categoria": "Snacks y Golosinas",
+    "precio_costo": 1500.0,
+    "precio_venta": 2800.0,
+    "stock": 15,
+    "stock_minimo": 5,
+    "proveedor": "ARCOR",
+    "notas": "ALTO EN AZÜCARES Y CALORÏAS",
+    "ultima_actualizacion": "28/03/2026 13:05"
+  },
+  "181766952321010": {
+    "nombre": "Pan Lactal",
+    "categoria": "Panificados",
+    "precio_costo": 3000.0,
+    "precio_venta": 4500.0,
+    "stock": 12,
+    "stock_minimo": 6,
+    "proveedor": "Cuchitrin",
+    "notas": "NINGUNA",
+    "ultima_actualizacion": "28/03/2026 13:07"
+  }
+}
